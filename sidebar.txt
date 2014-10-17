@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vra:home|Door43 (vra)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vra|d43-vra repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vra/archive/master.zip|d43-vra.zip]]
+
+**Recent Changes**
+{{changes>ns = vra}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vra|Ethnologue data]]
+
